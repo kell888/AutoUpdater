@@ -1,0 +1,7 @@
+E:\soft\AutoUpdater\AutoUpdater\bin\Debug\KellAutoUpdater.dll
+E:\soft\AutoUpdater\AutoUpdater\bin\Debug\KellAutoUpdater.pdb
+E:\soft\AutoUpdater\AutoUpdater\obj\Debug\KellAutoUpdater.DownloadConfirm.resources
+E:\soft\AutoUpdater\AutoUpdater\obj\Debug\KellAutoUpdater.DownloadProgress.resources
+E:\soft\AutoUpdater\AutoUpdater\obj\Debug\KellAutoUpdater.csproj.GenerateResource.Cache
+E:\soft\AutoUpdater\AutoUpdater\obj\Debug\KellAutoUpdater.dll
+E:\soft\AutoUpdater\AutoUpdater\obj\Debug\KellAutoUpdater.pdb

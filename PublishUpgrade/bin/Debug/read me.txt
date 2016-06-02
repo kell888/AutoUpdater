@@ -1,0 +1,25 @@
+            bool bHasError = false;
+            IAutoUpdater autoUpdater = new AutoUpdater(Application.ProductName);
+            try
+            {
+                autoUpdater.Update();
+            }
+            catch (Exception exp)
+            {
+                bHasError = true;
+                MessageBox.Show("升级出错：" + exp.Message);
+            }
+            finally
+            {
+                if (bHasError)
+                {
+                    try
+                    {
+                        autoUpdater.RollBack();
+                    }
+                    catch (Exception exp)
+                    {
+                        MessageBox.Show("升级回滚失败：" + exp.Message);
+                    }
+                }
+            }

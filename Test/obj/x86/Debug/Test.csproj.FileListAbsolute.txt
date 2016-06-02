@@ -1,0 +1,10 @@
+E:\soft\AutoUpdater\Test\bin\Debug\Test.exe
+E:\soft\AutoUpdater\Test\bin\Debug\Test.pdb
+E:\soft\AutoUpdater\Test\bin\Debug\KellAutoUpdater.dll
+E:\soft\AutoUpdater\Test\bin\Debug\KellAutoUpdater.pdb
+E:\soft\AutoUpdater\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+E:\soft\AutoUpdater\Test\obj\x86\Debug\Test.Form1.resources
+E:\soft\AutoUpdater\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\soft\AutoUpdater\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+E:\soft\AutoUpdater\Test\obj\x86\Debug\Test.exe
+E:\soft\AutoUpdater\Test\obj\x86\Debug\Test.pdb

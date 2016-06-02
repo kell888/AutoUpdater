@@ -1,0 +1,10 @@
+E:\soft\AutoUpdater\PublishUpgrade\obj\x86\Debug\PublishUpgrade.Form1.resources
+E:\soft\AutoUpdater\PublishUpgrade\obj\x86\Debug\PublishUpgrade.Properties.Resources.resources
+E:\soft\AutoUpdater\PublishUpgrade\obj\x86\Debug\PublishUpgrade.csproj.GenerateResource.Cache
+E:\soft\AutoUpdater\PublishUpgrade\bin\Debug\PublishUpgrade.exe
+E:\soft\AutoUpdater\PublishUpgrade\bin\Debug\PublishUpgrade.pdb
+E:\soft\AutoUpdater\PublishUpgrade\bin\Debug\KellAutoUpdater.dll
+E:\soft\AutoUpdater\PublishUpgrade\bin\Debug\KellAutoUpdater.pdb
+E:\soft\AutoUpdater\PublishUpgrade\obj\x86\Debug\PublishUpgrade.csprojResolveAssemblyReference.cache
+E:\soft\AutoUpdater\PublishUpgrade\obj\x86\Debug\PublishUpgrade.exe
+E:\soft\AutoUpdater\PublishUpgrade\obj\x86\Debug\PublishUpgrade.pdb
